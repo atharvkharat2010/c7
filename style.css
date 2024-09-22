@@ -1,0 +1,16 @@
+h2{
+    color: blueviolet;
+    font-size: 30px;
+    background-color: blanchedalmond;
+}
+#p1{
+    color: hotpink;
+    font-size: 20px;
+}
+.style1{
+    color: chartreuse;
+    font-size: 20px;
+}
+*{
+    background-color: azure;
+}
